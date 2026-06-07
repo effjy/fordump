@@ -6,6 +6,8 @@
 
 **Forensic Dump** is a high-performance C and GTK3-based graphical application designed for digital forensics investigators and cybersecurity analysts. It enables multi-threaded, block-level partition acquisition, magic-byte file carving, and credentials/signature detection inside disk dump images.
 
+For a comprehensive step-by-step user guide and technical details, you can download the **[User & Technical Manual (PDF)](MANUAL.pdf)**.
+
 ---
 
 ## 🖥️ User Interface
