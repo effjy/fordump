@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Forensic Dump v2.0.2
+Comment=Forensic partition dumping, file carving, and credentials search tool
+Exec=forensic-tool
+Icon=forensic-tool
+Terminal=false
+Categories=System;Security;Utility;
+StartupNotify=true
