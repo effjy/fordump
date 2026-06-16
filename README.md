@@ -1,8 +1,12 @@
-# 🔍 Forensic Dump v2.0.2
+<div align="center">
+
+<a href="https://github.com/effjy/fordump/"><img src="titles/forensic-dump-v202-title.svg" height="52" alt="Forensic Dump v2.0.2"></a>
 
 [![C](https://img.shields.io/badge/Language-C-00599C.svg?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![GTK+3](https://img.shields.io/badge/GUI-GTK%2B3-7FE719.svg?style=for-the-badge&logo=gtk)](https://www.gtk.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
+</div>
 
 **Forensic Dump** is a high-performance C and GTK3-based graphical application designed for digital forensics investigators and cybersecurity analysts. It enables multi-threaded, block-level partition acquisition, magic-byte file carving, and credentials/signature detection inside disk dump images.
 
